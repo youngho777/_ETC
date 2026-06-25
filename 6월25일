@@ -1,0 +1,17 @@
+오늘 github 라는 것을 배워보았다.
+협력해서 ppt를 만들고 서로에게 컴펌 받거나 수정할때 복잡하게 할 필요 없이 github 올려두면 들어가서 확인하거 수정이 가능하다.
+-------------------------
+echo "# abc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yh61544-stack/abc.git
+git push -u origin main
+-------------------------
+git remote add origin https://github.com/yh61544-stack/abc.git
+git branch -M main
+git push -u origin main
+-----------------------
+두가지의 방법이있다 직접 타이핑하기와 주소로 바로 push해서 하는 방법이 있다
+추가적으로 활용하여 끝말잇기를 실행하였다.
