@@ -35,10 +35,10 @@ hidden, visible → 요소 표시 여부
 block, inline, flex, grid → 레이아웃 방식
 --------------------------------------------------------
 글꼴 관련
-bold, normal, lighter → 글자 두께
-italic → 기울임
-underline → 밑줄
-center, left, right, justify → 정렬
+blod,normal,lightre 글자 두께
+italic 기울림
+underlie 밑줄
+center,leht,right,justify 정렬
 --------------------------------------------------------
 배경 관련
 cover → 화면 꽉 채우기
